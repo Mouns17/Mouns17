@@ -1,4 +1,4 @@
 <h1 align="center">Hi there, I'm Vlad</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Information Systems and Programming Student | Beginner Programmer</h3>
-<a align="center" href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Mouns17&theme=tokyonight-duo&hide_border=true" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Mouns17&theme=tokyonight-duo&hide_border=true&card_width=600&card_height=200" alt="GitHub Streak" /></a>
