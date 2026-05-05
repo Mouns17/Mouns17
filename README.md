@@ -51,5 +51,4 @@
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Mouns17&color=6366F1&style=flat-square" alt="Profile views" />
-  <p><em>"Code is like humor. When you have to explain it, it's bad." – Cory House</em></p>
 </div>
