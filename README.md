@@ -1,14 +1,12 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Hi%2C+I%27m+Vlad+%F0%9F%91%8B;Information+Systems+Student;.NET+%2F+WPF+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Hi%2C+I%27m+Mouns+%F0%9F%91%8B;WPF+Developer" alt="Typing SVG" />
 </div>
 
 ---
 
 ### 👨‍💻 About Me
 
-- 🎓 **Information Systems and Programming** student
-- 🌱 Currently deepening my knowledge in **.NET, WPF, C#** and database technologies
-- 🛠️ Building desktop applications for management and analytics
+- 🌱 Currently deepening my knowledge in **WPF, C#** and database technologies
 - 📍 Russia, UTC+3
 - 📫 Reach me at: **nozerit777@gmast.com**
 
@@ -17,12 +15,10 @@
 ### 🛠️ Tech Stack
 
 <p align="left">
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET" />
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
   <img src="https://img.shields.io/badge/WPF-5C2D91?style=for-the-badge&logo=windows&logoColor=white" alt="WPF" />
   <img src="https://img.shields.io/badge/XAML-0078D4?style=for-the-badge&logo=xaml&logoColor=white" alt="XAML" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </p>
 
