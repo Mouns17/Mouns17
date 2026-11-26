@@ -9,6 +9,7 @@
 - 🌱 Currently deepening my knowledge in **WPF, C#** and database technologies
 - 📍 Russia, UTC+3
 - 📫 Reach me at: **nozerit777@gmast.com**
+- [![Участник проекта XERJ Corpus Hub](https://hub.xerj.org/contributors/Mouns17/badge.svg)](https://hub.xerj.org/contributors/Mouns17)
 
 ---
 
@@ -43,7 +44,6 @@
 |--------|-------------|------|
 | [**SKAProject**](https://github.com/Mouns17/SKAProject) | Control and analysis system for organizations. Employee management, task tracking, reporting. Built with WPF and MySQL. | WPF, C#, XAML, MySQL |
 | [**MyERP**](https://github.com/Mouns17/MyERP) | Enterprise Resource Planning System | WPF, C#, XAML, MySQL |
-| [![Участник проекта XERJ Corpus Hub](https://hub.xerj.org/contributors/Mouns17/badge.svg)](https://hub.xerj.org/contributors/Mouns17) |
 
 ---
 
