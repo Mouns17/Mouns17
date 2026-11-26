@@ -8,7 +8,7 @@
 
 - 🌱 Currently deepening my knowledge in **WPF, C#** and database technologies
 - 📍 Russia, UTC+3
-- 📫 Reach me at: **nozerit777@gmast.com**
+- 📫 Reach me at: **nozerit777@gmail.com**
 - [![Участник проекта XERJ Corpus Hub](https://hub.xerj.org/contributors/Mouns17/badge.svg)](https://hub.xerj.org/contributors/Mouns17)
 
 ---
